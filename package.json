@@ -28,6 +28,9 @@
     "buffer",
     "stream"
   ],
+  "engines": {
+    "node": ">=6"
+  },
   "author": "creeperyang",
   "license": "MIT",
   "bugs": {
